@@ -1,0 +1,23 @@
+/*
+* Leah Rizzo
+* October 11, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+body{}
+tbody {background-color: antiquewhite}    
+table, td, th {border: 1px solid blue;}
+table {border-collapse: collapse;}
+thead {background-color: lime;}
+tfoot {background-color: deepskyblue;}
+
+
+
+}
